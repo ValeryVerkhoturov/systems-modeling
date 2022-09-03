@@ -1,0 +1,5 @@
+IPython
+mathjax
+pandas
+matplotlib
+numpy
