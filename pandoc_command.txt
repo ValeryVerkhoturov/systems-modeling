@@ -1,1 +1,1 @@
-pandoc practice\ 2.ipynb --pdf-engine=xelatex -V mainfont="Times New Roman" -o practice2.pdf
+pandoc practice\ 2.ipynb --pdf-engine=xelatex -V mainfont="Times New Roman" -V documentclass="article" -o practice2.pdf
