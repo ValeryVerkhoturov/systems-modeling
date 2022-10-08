@@ -3,3 +3,4 @@ mathjax
 pandas
 matplotlib
 numpy
+scipy
