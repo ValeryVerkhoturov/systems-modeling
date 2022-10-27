@@ -1,2 +1,11 @@
 .DS_Store
 .idea
+venv
+.aux
+.bbl
+.blg
+.log
+.out
+.run.xml
+.synctex.gz
+.bib
